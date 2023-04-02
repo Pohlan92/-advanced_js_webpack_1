@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BorisKaminskiy/advanced_js_webpack_1.git"
+    "url": "git+https://github.com/Pohlan92/advanced_js_webpack_1.git"
   },
-  "author": "Boris Kaminskiy",
+  "author": "Pohlan92",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BorisKaminskiy/advanced_js_webpack_1/issues"
+    "url": "https://github.com/Pohlan92/advanced_js_webpack_1/issues"
   },
-  "homepage": "https://github.com/BorisKaminskiy/advanced_js_webpack_1#readme",
+  "homepage": "https://github.com/Pohlan92/advanced_js_webpack_1#readme",
   "devDependencies": {
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
